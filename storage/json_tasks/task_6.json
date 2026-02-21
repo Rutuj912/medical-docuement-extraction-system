@@ -1,0 +1,23 @@
+{
+    "pdf_path": "uploads\\bill2.png",
+    "is_scanned": true,
+    "processing_method": "ocr_pipeline",
+    "page_count": 1,
+    "total_characters": 0,
+    "total_words": 0,
+    "average_confidence": 0.0,
+    "text": "--- Page 1 ---\n",
+    "pages": [
+        {
+            "image_path": "C:\\Users\\Hamada Salim G Trd\\PycharmProjects\\PythonProject14\\medical-and-charity-document-extraction-system\\backend\\storage\\processed_images\\processed_bill2_page_0001.png",
+            "text": "",
+            "confidence": 0.0,
+            "word_count": 0,
+            "character_count": 0,
+            "error": "Image loading error: EasyOCR engine not initialized",
+            "success": false
+        }
+    ],
+    "engine": null,
+    "language": null
+}
